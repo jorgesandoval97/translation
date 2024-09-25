@@ -48,7 +48,9 @@
     },
     "MENU": {
       "ADD_NESTED_DOCUMENT": "Agregar Documento Anidado",
+      "CHANGE_DOCUMENT_ICON": "Cambiar icono de documento",
       "CHANGE_DOCUMENT_STATUS": "Cambiar Estado del Documento",
+      "CHANGE_FOLDER_ICON": "Cambiar icono de carpeta",
       "CUSTOMIZE_SPACED_REPETITION": "Personalizar Repetición Espaciada",
       "DELETE": "Eliminar",
       "EDIT_MODE": {
@@ -63,6 +65,8 @@
       },
       "MARK_AS_DOCUMENT": "Marcar como Documento",
       "MOVE": "Mover",
+      "MULTI_SELECTION_FOLDER": "Seleccionar múltiples Carpetas/Documentos",
+      "MULTI_SELECTION_MODE": "Seleccionar múltiples Rems",
       "OPEN_IN_ANOTHER_PANE": "Abrir en Otro Panel",
       "PIN_TO_SIDEBAR": "Fijar en la Barra Lateral",
       "PRINT": "Imprimir",
@@ -799,6 +803,7 @@
     "TEMPLATE_one": "Plantilla",
     "TEMPLATE_other": "Plantillas",
     "TURN_OFF_AUTO_APPLY": "Apagar Aplicar Automáticamente",
-    "VIEW_CONFIGURATION": "Configurar Etiqueta"
+    "VIEW_CONFIGURATION": "Configurar Etiqueta",
+    "ADD_PROPERTY": "Añadir propiedad"
   }
 }
