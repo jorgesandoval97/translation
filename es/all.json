@@ -804,6 +804,7 @@
     "TEMPLATE_other": "Plantillas",
     "TURN_OFF_AUTO_APPLY": "Apagar Aplicar Automáticamente",
     "VIEW_CONFIGURATION": "Configurar Etiqueta",
-    "ADD_PROPERTY": "Añadir propiedad"
+    "ADD_PROPERTY": "Añadir propiedad",
+    "NEW_PROPERTY": "Nueva propiedad"
   }
 }
